@@ -1,20 +1,24 @@
-# SUPPLYCHAIN-ANALYSIS
+# SUPPLY CHAIN-ANALYSIS
 
 The key insights include, 
   Column and Bar Charts 📊 ; I visualized late delivery risks by region and orders by market and risk, providing clear insights into performance and potential improvement areas.
 
-  Line charts 📈. I use line chart to analyze sales trends over years to identify which year had the highest sales and which one didn’t.
+  Line charts 📈. I use a line chart to analyze sales trends over the years to identify which year had the highest sales and which didn’t.
 
-  Interactive reports📝; I was able to enable dynamic exploration of data using slicers and filters making it easy to interact and drill drill down to a specific metric.
+  Interactive reports📝; I enabled dynamic exploration of data using slicers and filters, making it easy to interact and drill down to a specific metric.
 
-  Pie chart; I used pie chart to show order by delivery status 
+  Pie chart; I used a pie chart to show order by delivery status 
 
-These visualization helped me answer the following questions;
+These visualizations helped me answer the following questions;
 
 * Which region has the highest late delivery risk?
 * What are the trends in sales over different months and years?
-* How order volume and late delivery risks vary by market?
-*  How many orders had late delivery, on time delivery and canceled order status?
+* How do order volume and late delivery risks vary by market?
+*  How many orders had late delivery, on-time delivery, and canceled order status?
 *  How many orders were late, canceled, and on time?
 
   
+![Project screenshot](C:\Users\vincent\Pictures\Screenshots\Screenshot 2024-07-06 015332.png
+)
+
+
