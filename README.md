@@ -17,6 +17,5 @@ These visualizations helped me answer the following questions;
 *  How many orders had late delivery, on-time delivery, and canceled order status?
 *  How many orders were late, canceled, and on time?
 
-  
-
+  ![Screenshot of the dashboard](https://github.com/SALHASAID/SUPPLYCHAIN-ANALYSIS/blob/main/Screenshot%202024-07-06%20015332.png)
 
