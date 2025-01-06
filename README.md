@@ -23,6 +23,23 @@ The dataset used for this project includes information on:
 - **Power BI:** For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions):** For creating calculated metrics (e.g., Net Profit Ratio, Late Delivery Risk).
 
+## Questions Answered
+This project addresses the following key business questions:
+1. **What are the total sales and net profit ratios over time?**
+   - The dashboard shows total sales and net profit ratio by year, helping identify trends and profitability.
+   
+2. **Which regions have the highest late delivery rates?**
+   - The analysis reveals that **West Asia** has the highest late delivery risk (X%), followed by **Europe** (Y%).
+
+3. **What are the top-selling products and their contribution to revenue?**
+   - **Smartphones** generated the highest revenue, contributing **57%** of total sales.
+
+4. **How does delivery performance vary by region and time?**
+   - The dashboard highlights regions with the lowest SLA compliance (e.g., **Chicago/IL** at 55%) and shows monthly trends in delivery performance.
+
+5. **What is the average call duration and customer satisfaction (CSAT) score?**
+   - The average call duration is **25.03 minutes**, and the average CSAT score is **4.72**, indicating areas for improvement in customer service.
+
 ## Key Insights
 1. **Late Deliveries:** 17.94% of orders in 2016 were delivered late, with the highest risk in West Asia.
 2. **Sales Trends:** Sales peaked in October 2016, indicating seasonal demand.
